@@ -1,0 +1,133 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.8.0 - built May 17 2017 20:53:25
+Copyright (C) 1999-2017 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11804000, The X.Org Foundation
+
+
+Thu Jan 30 22:10:32 2020
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+
+Thu Jan 30 22:10:34 2020
+ Connections: accepted: 192.168.42.2::60780
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+/usr/bin/startxfce4: X server already running on display :1
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+xfce4-session: No GPG agent found
+
+(xfce4-session:78): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/shiyanlou/.cache/sessions/xfce4-session-16d972202eed:1, Does it exist? Permissions issue?
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+
+(xfsettingsd:101): libupower-glib-WARNING **: Couldn't connect to proxy: 无法连接： 没有那个文件或目录
+
+(xfsettingsd:101): libupower-glib-CRITICAL **: up_client_get_lid_is_closed: assertion 'UP_IS_CLIENT (client)' failed
+
+(xfsettingsd:101): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(xfsettingsd:101): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+open file /usr/share/fcitx-sogoupinyin/SogouInput/sgim_charvalid.bin failed.
+open file /home/shiyanlou/.config/SogouPY/sgim_numFreqAdjust.bin failed.
+check false, remove N
+open file /home/shiyanlou/.config/SogouPY/sgim_infokey.bin failed.
+check false, remove i
+open file /home/shiyanlou/.config/SogouPY/sgim_blackIfk.bin failed.
+check false, remove i
+open file /home/shiyanlou/.config/SogouPY/sgim_smartInfo.bin failed.
+check false, remove s
+open file /home/shiyanlou/.config/SogouPY/punctures.ini failed.
+check false, remove P
+open file /home/shiyanlou/.config/SogouPY/punctures.ini failed.
+open file  failed.
+check false, remove C
+open file  failed.
+check false, remove C
+open file /home/shiyanlou/.config/SogouPY/sgim_usr_v3new.bin failed.
+check false, remove U
+open file /home/shiyanlou/.config/SogouPY/sgim_ext.bin failed.
+check false, remove E
+open file /home/shiyanlou/.config/SogouPY/sgim_usr_v3_ext.bin failed.
+check false, remove U
+open file /home/shiyanlou/.config/SogouPY/sgim_fix_first.bin failed.
+check false, remove F
+open file /home/shiyanlou/.config/SogouPY/sgim_del_word.bin failed.
+check false, remove D
+open file /home/shiyanlou/.config/SogouPY/sgim_phrases.bin failed.
+check false, remove A
+open file /home/shiyanlou/.config/SogouPY/sgim_uspm.bin failed.
+check false, remove U
+open file /home/shiyanlou/.config/SogouPY/sgim_privilege.bin failed.
+check false, remove P
+open file /home/shiyanlou/.config/SogouPY/sgim_eng_usr.bin failed.
+check false, remove E
+open file /home/shiyanlou/.config/SogouPY/sgim_url_usr.bin failed.
+check false, remove U
+open file /home/shiyanlou/.config/SogouPY/sgim_keymap.bin failed.
+check false, remove K
